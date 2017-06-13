@@ -1,3 +1,3 @@
 # hello-world
-testing
+-testing
 This is my first repository. I am doing this to learn how it works. 
